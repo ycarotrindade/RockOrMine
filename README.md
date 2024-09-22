@@ -1,2 +1,3 @@
 # ROCK OR MINE
-AN ML model made with Pytorch who achives 85.71% of accuracy
+
+Welcome to my Data Science training repository. Here, I test some classification algorithms that I have learned or am learning. This repository uses the Sonar dataset; you can read more about this dataset at: https://www.kaggle.com/datasets/mahmudulhaqueshawon/sonar-data.
